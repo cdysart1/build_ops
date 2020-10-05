@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## BuildOps Coding Challenge
 This project is a mock employee portal that allows users to run CRUD operations for Employees and Skills.
+The menu in the top right of the header allows navigation around the project.  The SKILLS and EMPLOYEES cards on the homepage can also be clicked for navigation.  New employees and skills are both added by clicking on the plus sign in the header of their respective tables.
 
 Technologies Used:
 React/
