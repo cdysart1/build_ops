@@ -1,21 +1,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## BuildOps Coding Challenge
-This project is a mock employee portal that allows users to create CRUD operations on Employees and Skills.
+This project is a mock employee portal that allows users to run CRUD operations for Employees and Skills.
 
 Technologies Used:
-React
-React-Apollo
-AWS Amplify
+React/
+React-Apollo/
+GraphQL/
+AWS Amplify/
 Material UI
 
 An S3 bucket is being used to host this project and is available at: http://buildops-challenge.s3-website-us-west-1.amazonaws.com/.
 
-Information regarding scripts including running, and testing, and deploying this project have been provided by Create React App and are available below.
+Information regarding scripts including running, testing, and deploying this project have been provided by Create React App and are available below.
 
-Future enhancements:
-Mobile-friendly
-Add a new skill when creating a new employee (*can already create a skill when editing an existing employee)
+Future enhancements:<br />
+Mobile-friendly<br />
+Add a new skill when creating a new employee (users can already create a skill when editing an existing employee)<br />
 Testing
 
 ## Available Scripts
