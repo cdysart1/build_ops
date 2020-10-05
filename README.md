@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## BuildOps Coding Challenge
-This project is a mock employee portal that allows users to create CRUD operations for Employees and Skills.
+This project is a mock employee portal that allows users to run CRUD operations for Employees and Skills.
 
 Technologies Used:
 React/
