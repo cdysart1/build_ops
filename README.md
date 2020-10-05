@@ -14,9 +14,9 @@ An S3 bucket is being used to host this project and is available at: http://buil
 
 Information regarding scripts including running, testing, and deploying this project have been provided by Create React App and are available below.
 
-Future enhancements:
-Mobile-friendly
-Add a new skill when creating a new employee (users can already create a skill when editing an existing employee)
+Future enhancements:<br />
+Mobile-friendly<br />
+Add a new skill when creating a new employee (users can already create a skill when editing an existing employee)<br />
 Testing
 
 ## Available Scripts
