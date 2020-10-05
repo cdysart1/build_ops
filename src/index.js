@@ -15,23 +15,6 @@ const client = new AWSAppSyncClient({
     apiKey: 'da2-cplyrkju2jhszdiq4zw65ebq5y',
   },
   disableOffline: true,
-  cacheOptions: {
-    dataIdFromObject: (obj) => {
-      let id = defaultDataIdFromObject(obj);
-
-      if (!id) {
-        const { __typename: typename } = obj;
-        switch (typename) {
-          case 'Comment':
-            return `${typename}:${obj.commentId}`;
-          default:
-            return id;
-        }
-      }
-
-      return id;
-    }
-  }
 });
 
 ReactDOM.render(
